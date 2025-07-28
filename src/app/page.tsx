@@ -351,7 +351,7 @@ export default function HomePage() {
                     Your Trusted Partner for Complete Business Solutions
                   </h2>
                   <p className="max-w-[600px] text-muted-foreground md:text-xl/relaxed">
-                    With over 15 years of experience, we've built our reputation
+                    With over 15 years of experience, we&apos;ve built our reputation
                     on delivering exceptional results across construction,
                     events, and procurement. Our integrated approach ensures
                     seamless project execution from start to finish.
@@ -402,7 +402,7 @@ export default function HomePage() {
                   Ready to Start Your Next Project?
                 </h2>
                 <p className="mx-auto max-w-[600px] text-white md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                  Let's discuss how our comprehensive services can help your
+                  Let&apos;s discuss how our comprehensive services can help your
                   business grow. Get in touch for a free consultation.
                 </p>
               </div>
